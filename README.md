@@ -1,0 +1,1 @@
+This is fourcorners wordpress theme.Like the Business theme you can see a very clean code.
